@@ -50,4 +50,6 @@ Following is parameter documentation:
 - [ ] Settings for Training on Colab
 - [ ] Implement Progressive GAN
 
+### Blog Post:
 
+#### [This Icon Does Not Exist — An Application of GANs to Icon Generation](https://medium.com/@NaxAlpha/this-icon-does-not-exist-an-application-of-gans-to-icon-generation-5442f0f867a)
