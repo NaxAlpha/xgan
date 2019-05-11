@@ -1,0 +1,4 @@
+fire
+matplotlib
+torchvision
+torchsummary
